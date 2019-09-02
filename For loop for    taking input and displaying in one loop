@@ -1,0 +1,22 @@
+/* This program is able to do the   two 
+task  in one loop*/
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+int n,a[10];
+clrscr();
+cout<<"enter the size of the array"<<endl;
+cin>>n;
+cout<<"enter the array input"<<endl;
+for(int i=0; i<n; i++)
+{
+cin>>a[i];
+if(i==o)
+{
+cout<<"array element are: /t";
+}
+cout<<a[i];
+}
+getch();
+}
